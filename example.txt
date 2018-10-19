@@ -1,4 +1,5 @@
 interface Test {
 	int x;
 	int y;
+	int z;
 }
