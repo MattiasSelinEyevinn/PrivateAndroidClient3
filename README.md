@@ -1,3 +1,3 @@
-# AndroidClient library 3.0.0
+# AndroidClient library 3.1.0
 
-This is the first version.
+This is the second version.
